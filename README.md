@@ -1,4 +1,4 @@
-# Object file reader 
+# Irog Static Analyzer 
 
 A CLI utility written in C++ which does static code analysis 
 
