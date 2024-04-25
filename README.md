@@ -43,13 +43,13 @@ cmake --build build
 
 Once you've run these commands, you can find the executable in:
 ```bash
-./build-irog-static-analyzer
+./build/irog-static-analyzer
 ```
 
 ## Usage
 
 ```bash
-./irog-static-analyzer <file name>
+irog-static-analyzer <file name>
 ```
 
 ## License
