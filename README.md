@@ -14,7 +14,7 @@ A CLI utility written in C++ which does static code analysis
 
 This utility was written by me in order to get more familiar with how C++ static file analysis is done.
 
-Used [this](https://itnext.io/how-to-create-a-c-c-static-code-analysis-tool-3247f9341a43) blogpost as guidance to writing the project, but I intend to add more rules as practice. This is just the initial stage of the project.
+Used [this](https://itnext.io/how-to-create-a-c-c-static-code-analysis-tool-3247f9341a43) blogpost as guidance for writing the project, but I intend to add more rules as practice. This is just the initial stage of the project.
 
 Todo:
  - Add more rules, make the tool more versatile and configurable like clang-tidy
