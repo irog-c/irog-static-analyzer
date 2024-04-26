@@ -18,7 +18,7 @@ Used [this](https://itnext.io/how-to-create-a-c-c-static-code-analysis-tool-3247
 Also [this book](https://www.amazon.com/Getting-Started-LLVM-Core-Libraries/dp/1782166920) was a good reference.
 
 Todo:
- - Add more rules, make the tool more versatile and configurable like clang-tidy
+ - Add more rules, make the tool more versatile and configurable like the clang static analyzer.
 
 ## Features
 
